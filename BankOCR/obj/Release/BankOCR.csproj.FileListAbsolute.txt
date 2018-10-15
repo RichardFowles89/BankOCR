@@ -1,0 +1,5 @@
+C:\Users\seren\Documents\Visual Studio 2015\Projects\BankOCR\BankOCR\bin\Release\BankOCR.exe.config
+C:\Users\seren\Documents\Visual Studio 2015\Projects\BankOCR\BankOCR\bin\Release\BankOCR.exe
+C:\Users\seren\Documents\Visual Studio 2015\Projects\BankOCR\BankOCR\bin\Release\BankOCR.pdb
+C:\Users\seren\Documents\Visual Studio 2015\Projects\BankOCR\BankOCR\obj\Release\BankOCR.exe
+C:\Users\seren\Documents\Visual Studio 2015\Projects\BankOCR\BankOCR\obj\Release\BankOCR.pdb
